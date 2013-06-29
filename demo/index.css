@@ -1,0 +1,19 @@
+select{
+	width: 250px;
+}
+
+#from, #from-grouped{
+	float: left;
+}
+
+.buttons{
+	float: left;
+	width: 120px;
+	height: 120px;
+	
+}
+.buttons input{
+	display: block;
+	width: 100px;
+	margin: 4px auto 0;
+}
