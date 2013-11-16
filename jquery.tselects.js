@@ -1,6 +1,6 @@
-﻿/*
-// jQuery Selects Transfer
-//
+﻿/**
+* jQuery Selects Transfer
+* @author: jsimonait <jsimonait@gmail.com>
 */
 
 (function ($) {
